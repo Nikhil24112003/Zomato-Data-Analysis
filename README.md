@@ -6,9 +6,10 @@ ratingsforstrategic insights. Cleaned and normalized customer reviews, conductin
 visualize restaurant distributions. Automated the entire process with Python scripts for enhanced efficiency
 
 
-Technologies: Python, SQLite, Pandas, NLTK, Folium, Geopy.
+# Technologies: 
+Python, SQLite, Pandas, NLTK, Folium, Geopy.
 
-
+# images
 ![Alt Text](graph1.png)
 ![Alt Text](graph2.png)
 ![Alt Text](graph3.png)
