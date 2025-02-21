@@ -1,4 +1,4 @@
-![Screenshot 2025-02-21 133723](https://github.com/user-attachments/assets/3fafe4c4-03ac-4ff1-bfb1-2e56aa2cf689)# Zomato-Data-Analysis
+# Zomato-Data-Analysis
 
 Performed data retrieval using sqlite3 to analyze restaurant ratings and online ordering options. Managed 
 missing values through imputation and categorization. Analyzed the correlation between online ordering and 
