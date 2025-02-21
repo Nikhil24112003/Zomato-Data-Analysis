@@ -9,9 +9,3 @@ visualize restaurant distributions. Automated the entire process with Python scr
 # Technologies: 
 Python, SQLite, Pandas, NLTK, Folium, Geopy.
 
-# images
-![Alt Text](graph1.png)
-![Alt Text](graph2.png)
-![Alt Text](graph3.png)
-![Alt Text](graph4.png)
-![Alt Text](graph5.png)
